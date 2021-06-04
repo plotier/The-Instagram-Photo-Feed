@@ -1,0 +1,45 @@
+*{
+    margin:0          
+}
+div{
+    box-sizing: border-box;
+}
+body{
+    background: thistle;
+   }
+.ig-header{
+        background: white;
+        text-align: center;       
+        padding:15px 0px 15px 0px;
+}
+
+.header{
+    padding: 5px;
+}
+.marco{
+    margin-top: 50px;
+    margin-left:33%;
+    width: 33%;       
+    background: white;
+}
+div.marco div.header div:first-child{
+    width: 80%;
+    display: inline-block;
+}
+div.marco div.header div:last-child{
+    width: 20%;
+    display: inline-block;
+    text-align: right;
+    padding-right: 5px;
+    color:gray
+   }
+h3{
+padding:5px;
+}
+
+img{
+    width: 100%;
+}
+.descripcion{
+    padding: 10px;
+}
